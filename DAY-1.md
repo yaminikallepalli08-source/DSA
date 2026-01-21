@@ -31,7 +31,7 @@ Second Largest  in ana Array
            
         }
       return secbig;
-```
         
     }
 }
+```
